@@ -64,7 +64,6 @@ streamlit run StreamlitApp.py
 3. Logo can be replaced by adding your own logo.png to the root directory.
 
 🧑‍💻 Author- Avinash Padidadakala
-
 📫 [Linkedin](www.linkedin.com/in/avinash-padidadakala-236104299)
 
 💻 [Github](https://github.com/Avinash4203)
