@@ -58,7 +58,6 @@ streamlit run StreamlitApp.py
 ```
 
 ### 📌 Notes
-
 1. You must configure your embedding and LLM API keys in the respective modules (embedding.py, model_api.py).
 2. All uploaded documents are processed in memory and are not stored permanently.
 3. Logo can be replaced by adding your own logo.png to the root directory.
