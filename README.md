@@ -8,7 +8,7 @@ Smart Doc Assistant is a Streamlit web application that allows users to interact
 - Ask natural language questions related to your uploaded documents.
 - Get real-time answers powered by embeddings and a language model.
 - Maintain a chat history of questions and answers within the session.
-- Clean, intuitive interface with support for custom branding and logo
+- Clean, intuitive interface with support for custom branding and logo.
 
 ## 🖼️ Preview
 
