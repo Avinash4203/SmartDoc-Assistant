@@ -67,5 +67,4 @@ streamlit run StreamlitApp.py
 
 📫 [Linkedin](www.linkedin.com/in/avinash-padidadakala-236104299)
 
-
 💻 [Github](https://github.com/Avinash4203)
