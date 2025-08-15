@@ -1,14 +1,14 @@
-# 📄 DocQuest – QA with Documents
+# Smart Doc Assistant – Intelligent Document Q&A System
 
-DocQuest is a simple and interactive Streamlit web app that allows users to ask questions from uploaded documents and receive relevant answers using information retrieval techniques.
+Smart Doc Assistant is a Streamlit web application that allows users to interactively query uploaded documents and receive precise answers. By leveraging embeddings and a language model, it provides real-time, context-aware responses to natural language questions.
 
 ## 🚀 Features
 
-- Upload documents in **PDF, TXT, or DOCX** format
-- Ask natural language questions related to the uploaded document
-- Real-time **question answering** powered by embeddings and a language model
-- Displays chat history of previously asked questions and answers
-- Intuitive and lightweight UI with branding support
+- Upload PDF, TXT, or DOCX documents for analysis.
+- Ask natural language questions related to your uploaded documents.
+- Get real-time answers powered by embeddings and a language model.
+- Maintain a chat history of questions and answers within the session.
+- Clean, intuitive interface with support for custom branding and logo
 
 ## 🖼️ Preview
 
@@ -42,8 +42,8 @@ requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vishal220703/Document-QA-System.git
-cd LLM Project
+git clone https://github.com/Avinash4203/SmartDoc-Assistant.git
+cd Document-QA-System
 ```
 
 ### 2. Install Dependencies
@@ -63,6 +63,9 @@ streamlit run StreamlitApp.py
 2. All uploaded documents are processed in memory and are not stored permanently.
 3. Logo can be replaced by adding your own logo.png to the root directory.
 
-🧑‍💻 Author- Vishal M
-📫 LinkedIn
-💻 GitHub
+🧑‍💻 Author- Avinash Padidadakala
+
+📫 [Linkedin](www.linkedin.com/in/avinash-padidadakala-236104299)
+
+
+💻 [Github](https://github.com/Avinash4203)
