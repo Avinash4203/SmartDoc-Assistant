@@ -34,6 +34,7 @@ def main():
                 document = load_data(doc)
                 model = load_model()
                 query_engine = download_gemini_embedding(model, document)
+                
                 response = query_engine.query(user_question)
 
                 st.session_state.history.append((user_question, response.response))

@@ -20,7 +20,7 @@ def download_gemini_embedding(model,document):
     """
     try:
         logging.info("")
-        gemini_embed_model = GeminiEmbedding(model_name="models/embedding-001")
+        gemini_embed_model = GeminiEmbedding(model_name="text-embedding-004")
         Settings.llm = model
         Settings.embed_model = gemini_embed_model
         Settings.chunk_size = 800
