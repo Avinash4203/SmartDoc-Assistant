@@ -6,3 +6,8 @@ python-dotenv
 IPython
 llama-index-embeddings-gemini
 streamlit
+gTTS
+fpdf
+deep-translator
+graphviz
+pypdf
