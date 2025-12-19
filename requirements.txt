@@ -12,3 +12,4 @@ deep-translator
 graphviz
 pypdf
 python-docx
+fitz
