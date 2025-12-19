@@ -13,3 +13,4 @@ graphviz
 pypdf
 python-docx
 fitz
+frontend
