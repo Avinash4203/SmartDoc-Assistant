@@ -11,3 +11,4 @@ fpdf
 deep-translator
 graphviz
 pypdf
+python-docx
